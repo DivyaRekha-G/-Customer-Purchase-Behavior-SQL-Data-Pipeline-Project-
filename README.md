@@ -11,18 +11,12 @@ To segment customers into High, Medium, and Low value based on their total spend
 
 ---
 
-## 📁 Dataset
-
-- `raw_customers_2500.csv`: Simulated customer signup data
-- `raw_orders_2500.csv`: Simulated order history with statuses
-
----
 
 ## 🧩 Tools Used
 
 - **SQL (MySQL)**
 - **Excel** for CSV generation
-- Optional: Power BI or Tableau for visualization
+- Power BI  for visualization
 
 ---
 
